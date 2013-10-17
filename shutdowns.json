@@ -154,8 +154,8 @@
 
     {
         "start": "2013-09-30",
-        "end": null,
-        "days": null,
+        "end": "2013-10-17",
+        "days": 16,
         "president": "Obama",
         "senate": "Democrat",
         "house": "Republican"

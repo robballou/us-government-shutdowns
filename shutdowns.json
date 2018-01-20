@@ -4,6 +4,7 @@
         "end": "1976-10-11",
         "days": 10,
         "president": "Ford",
+        "president_party": "Republican",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -13,6 +14,7 @@
         "end": "1977-10-13",
         "days": 12,
         "president": "Carter",
+        "president_party": "Democrat",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -22,6 +24,7 @@
         "end": "1977-11-09",
         "days": 8,
         "president": "Carter",
+        "president_party": "Democrat",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -31,6 +34,7 @@
         "end": "1977-12-09",
         "days": 8,
         "president": "Carter",
+        "president_party": "Democrat",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -40,6 +44,7 @@
         "end": "1978-10-18",
         "days": 18,
         "president": "Carter",
+        "president_party": "Democrat",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -49,6 +54,7 @@
         "end": "1979-10-12",
         "days": 12,
         "president": "Carter",
+        "president_party": "Democrat",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -58,6 +64,7 @@
         "end": "1981-11-23",
         "days": 2,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -67,6 +74,7 @@
         "end": "1983-10-02",
         "days": 1,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -76,6 +84,7 @@
         "end": "1982-12-21",
         "days": 3,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -85,6 +94,7 @@
         "end": "1983-11-14",
         "days": 3,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -94,6 +104,7 @@
         "end": "1984-10-03",
         "days": 2,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -103,6 +114,7 @@
         "end": "1984-10-05",
         "days": 1,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -112,6 +124,7 @@
         "end": "1986-10-18",
         "days": 1,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -121,6 +134,7 @@
         "end": "1987-12-20",
         "days": 1,
         "president": "Reagan",
+        "president_party": "Republican",
         "senate": "Democrat",
         "house": "Democrat"
     },
@@ -130,6 +144,7 @@
         "end": "1990-10-09",
         "days": 4,
         "president": "HW Bush",
+        "president_party": "Republican",
         "senate": "Republican",
         "house": "Democrat"
     },
@@ -139,6 +154,7 @@
         "end": "1995-11-19",
         "days": 5,
         "president": "Clinton",
+        "president_party": "Democrat",
         "senate": "Republican",
         "house": "Republican"
     },
@@ -148,6 +164,7 @@
         "end": "1996-01-06",
         "days": 21,
         "president": "Clinton",
+        "president_party": "Democrat",
         "senate": "Republican",
         "house": "Republican"
     },
@@ -157,8 +174,19 @@
         "end": "2013-10-17",
         "days": 16,
         "president": "Obama",
+        "president_party": "Democrat",
         "senate": "Democrat",
         "house": "Republican"
-    }
+    },
+    
+    {
+        "start": "2018-01-20",
+        "end": null,
+        "days": null,
+        "president": "Trump",
+        "president_party": "Republican",
+        "senate": "Republican",
+        "house": "Republican",
+    },
 
 ]

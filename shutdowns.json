@@ -188,5 +188,25 @@
         "senate": "Republican",
         "house": "Republican",
     },
+    
+    {
+        "start": "2018-02-09",
+        "end": "2018-02-09",
+        "days": 1,
+        "president": "Trump",
+        "president_party": "Republican",
+        "senate": "Republican",
+        "house": "Republican",
+    },
+    
+    {
+        "start": "2018-12-22",
+        "end": "",
+        "days": 1,
+        "president": "Trump",
+        "president_party": "Republican",
+        "senate": "Republican",
+        "house": "Republican",
+    },
 
 ]

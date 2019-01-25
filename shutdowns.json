@@ -201,12 +201,13 @@
     
     {
         "start": "2018-12-22",
-        "end": "",
-        "days": 1,
+        "end": "2019-01-25",
+        "days": 35,
         "president": "Trump",
         "president_party": "Republican",
         "senate": "Republican",
         "house": "Republican",
+        "houseEnd": "Democrat",
     },
 
 ]
